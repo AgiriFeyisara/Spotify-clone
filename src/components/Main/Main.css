@@ -1,0 +1,19 @@
+.main {
+  background-color: #1d75de;
+  padding: 5em;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 1.2em;
+}
+.button-container {
+  display: flex;
+  gap: 0.3em;
+}
+.hero p:last-of-type a {
+  color: #fff;
+}
+.hero p:last-of-type {
+  font-size: 0.57rem;
+}
