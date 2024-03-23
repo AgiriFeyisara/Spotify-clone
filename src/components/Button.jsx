@@ -13,7 +13,7 @@ export default function CustomButton({ text, variant }) {
     };
   } else if (variant === "bordered") {
     buttonStyle = {
-      backgroundColor: "transparent",
+      backgroundColor: "black",
       color: "white",
       padding: "10px 20px",
       border: "1px solid white",

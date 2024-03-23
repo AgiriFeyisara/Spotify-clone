@@ -23,3 +23,4 @@ export function Logo(props) {
     );
   }
 }
+export default Logo;

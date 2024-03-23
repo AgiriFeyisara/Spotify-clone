@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: var(--app-padding);
+  padding-block: 15px;
+  height: 60px;
+  border-bottom: 1px solid #d9dadc;
+}
+.main {
+  flex-direction: column;
+  border-bottom: none;
+  height: auto;
+}
